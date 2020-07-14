@@ -1,0 +1,11 @@
+C:\Users\Milica\source\repos\Room_Reservation_Sys\Room_Reservation_Sys\bin\Debug\netcoreapp3.1\Hotel_Reservation.exe
+C:\Users\Milica\source\repos\Room_Reservation_Sys\Room_Reservation_Sys\bin\Debug\netcoreapp3.1\Hotel_Reservation.deps.json
+C:\Users\Milica\source\repos\Room_Reservation_Sys\Room_Reservation_Sys\bin\Debug\netcoreapp3.1\Hotel_Reservation.runtimeconfig.json
+C:\Users\Milica\source\repos\Room_Reservation_Sys\Room_Reservation_Sys\bin\Debug\netcoreapp3.1\Hotel_Reservation.runtimeconfig.dev.json
+C:\Users\Milica\source\repos\Room_Reservation_Sys\Room_Reservation_Sys\bin\Debug\netcoreapp3.1\Hotel_Reservation.dll
+C:\Users\Milica\source\repos\Room_Reservation_Sys\Room_Reservation_Sys\bin\Debug\netcoreapp3.1\Hotel_Reservation.pdb
+C:\Users\Milica\source\repos\Room_Reservation_Sys\Room_Reservation_Sys\obj\Debug\netcoreapp3.1\Hotel_Reservation.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\Room_Reservation_Sys\Room_Reservation_Sys\obj\Debug\netcoreapp3.1\Hotel_Reservation.AssemblyInfoInputs.cache
+C:\Users\Milica\source\repos\Room_Reservation_Sys\Room_Reservation_Sys\obj\Debug\netcoreapp3.1\Hotel_Reservation.AssemblyInfo.cs
+C:\Users\Milica\source\repos\Room_Reservation_Sys\Room_Reservation_Sys\obj\Debug\netcoreapp3.1\Hotel_Reservation.dll
+C:\Users\Milica\source\repos\Room_Reservation_Sys\Room_Reservation_Sys\obj\Debug\netcoreapp3.1\Hotel_Reservation.pdb
